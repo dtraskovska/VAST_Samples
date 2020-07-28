@@ -24,7 +24,6 @@
               <Tracking event="progress" offset="00:00:10">http://example.com/tracking/progress-10</Tracking>
             </TrackingEvents>
             <Duration>00:00:05</Duration>
-            </MediaFiles>
             <VideoClicks>
               <ClickThrough id="blog">
                 <![CDATA[https://iabtechlab.com]]>
