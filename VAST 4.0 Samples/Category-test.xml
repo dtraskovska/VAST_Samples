@@ -25,6 +25,8 @@
             </TrackingEvents>
             <Duration>00:00:16</Duration>
             <MediaFiles>
+              <MediaFile>
+              </MediaFile>
             </MediaFiles>
             <VideoClicks>
               <ClickThrough id="blog">
