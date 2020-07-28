@@ -25,7 +25,8 @@
             </TrackingEvents>
             <Duration>00:00:16</Duration>
             <MediaFiles>
-              <MediaFile type="video/mp4">
+              <MediaFile>
+                <![CDATA[https://iab-publicfiles.s3.amazonaws.com/vast/VAST-4.0-Short-Intro.mp4]]>
               </MediaFile>
             </MediaFiles>
             <VideoClicks>
