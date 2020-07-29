@@ -8,7 +8,7 @@
         <Creative>
           <UniversalAdId idRegistry="Ad-ID" idValue="8465">8465</UniversalAdId>
           <Linear>
-            <Duration>00:00:16</Duration>
+            <Duration>00:00:10</Duration>
             <MediaFiles>
               <MediaFile type="video/mp4">
                 <![CDATA[https://iab-publicfiles.s3.amazonaws.com/vast/VAST-4.0-Short-Intro.mp4]]>
