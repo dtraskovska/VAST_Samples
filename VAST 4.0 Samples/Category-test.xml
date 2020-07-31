@@ -14,6 +14,8 @@
       <Creatives>
         <Creative id="5480" sequence="1" adId="2447226">
           <UniversalAdId idRegistry="Ad-ID" idValue="8465">8465</UniversalAdId>
+          <Linear skipoffset="10%">
+          </Linear>
         </Creative>
       </Creatives>  
     </InLine>  
