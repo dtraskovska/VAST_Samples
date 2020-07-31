@@ -11,6 +11,8 @@
       <Category authority="http://www.iabtechlab.com/categoryauthority">American Cuisine</Category>
       <Category authority="http://www.iabtechlab.com/categoryauthority">Guitar</Category>
       <Category authority="http://www.iabtechlab.com/categoryauthority">Vegan</Category>
+      <Creatives>
+      </Creatives>  
     </InLine>  
   </Ad>
 </VAST>
