@@ -15,6 +15,22 @@
         <Creative id="5480" sequence="1" adId="2447226">
           <UniversalAdId idRegistry="Ad-ID" idValue="8465">8465</UniversalAdId>
           <Linear skipoffset="10%">
+            <TrackingEvents>
+              <Tracking event="start">http://example.com/tracking/start</Tracking>
+              <Tracking event="firstQuartile">http://example.com/tracking/firstQuartile</Tracking>
+              <Tracking event="midpoint">http://example.com/tracking/midpoint</Tracking>
+              <Tracking event="thirdQuartile">http://example.com/tracking/thirdQuartile</Tracking>
+              <Tracking event="complete">http://example.com/tracking/complete</Tracking>
+              <Tracking event="progress" offset="00:00:10">http://example.com/tracking/progress-10</Tracking>
+            </TrackingEvents>
+            <Duration>00:12:25</Duration>
+            <MediaFiles>
+            </MediaFiles>
+            <VideoClicks>
+              <ClickThrough id="blog">
+                <![CDATA[https://iabtechlab.com]]>
+              </ClickThrough>
+            </VideoClicks>
           </Linear>
         </Creative>
       </Creatives>  
