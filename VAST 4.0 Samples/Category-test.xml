@@ -12,6 +12,9 @@
       <Category authority="http://www.iabtechlab.com/categoryauthority">Guitar</Category>
       <Category authority="http://www.iabtechlab.com/categoryauthority">Vegan</Category>
       <Creatives>
+        <Creative id="5480" sequence="1" adId="2447226">
+          <UniversalAdId idRegistry="Ad-ID" idValue="8465">8465</UniversalAdId>
+        </Creative>
       </Creatives>  
     </InLine>  
   </Ad>
